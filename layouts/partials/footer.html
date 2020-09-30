@@ -1,0 +1,20 @@
+<footer class="footer">
+  <div class="footer__inner">
+    {{ if $.Site.Copyright }}
+      <div class="copyright copyright--user">{{ $.Site.Copyright | safeHTML }}</div>
+    {{else}}
+      <a href="http://www.toluwalemi.com/">Toluwalemi</a>
+      <div class="copyright">
+        <span>© {{ now.Year }} Toluwalemi</span>
+        <a class="mx-2" href="https://twitter.com/toluwalemi"><i class="fab fa-twitter"></i></a><a class="mx-2"
+                                                                                                   href="https://www.linkedin.com/in/toluwalemioluwadare/"><i
+            class="fab fa-linkedin"></i></a><a class="mx-2" href="https://github.com/Toluwalemi"><i
+            class="fab fa-github"></i></a>
+      </div>
+    {{end}}
+  </div>
+</footer>
+
+<script src="{{ "assets/main.js" | absURL }}"></script>
+<script src="{{ "assets/prism.js" | absURL }}"></script>
+{{- partial "extended_footer.html" . }}
