@@ -39,5 +39,6 @@ fields:
 pages:
 - content/blog/how-to-setup-your-blog-in-30-minutes-using-hugo.md
 - content/blog/i-miss-you-old-friend.md
+- content/blog/the-5-best-django-books-for-beginners.md
 - content/blog/the-journey-getting-started.md
 - content/blog/using-netlify-to-deploy-your-hugo-website.md
