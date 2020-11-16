@@ -38,7 +38,7 @@ If you are a beginner and you need to speed up your learning pathway effectively
 
 ![Book Cover Image](https://m.media-amazon.com/images/I/51sB4CmErSL._AC_UY218_.jpg "Django for Begineers")
 
-After you must have completed the tutorial on the official documentation, there's a chance you still feel lost or overwhelmed. William Vincent comes to the rescue by brilliantly shining in standard practices and concepts—ranging from testing to deployment—needed to build modern web applications in a very simple manner. You get hands-on experience in building, testing and deploying web apps like a _Message Board_ app, a _Blog_ app, and a _Newspaper_ app. The writing was easy to follow, with clear explanations of new concepts. I thought the introduction of test-driven development (at this early stage) was brilliant.
+After you must have completed the tutorial on the official documentation, there's a chance you still feel lost or overwhelmed. William Vincent comes to the rescue by brilliantly shining in standard Django practices and concepts—ranging from testing to deployment—needed to build modern web applications in a very simple manner. You get hands-on experience in building, testing and deploying web apps like a _Message Board_ app, a _Blog_ app, and a _Newspaper_ app. The writing was easy to follow, with clear explanations of new concepts. I thought the introduction of test-driven development (at this early stage) was brilliant.
 
 #### **2. Django 3 by Example** _by Antonio Melé_
 
@@ -62,7 +62,9 @@ This is also good too
 
 ![Book Cover Image](https://m.media-amazon.com/images/I/51vnww0I2TL._AC_UY218_.jpg "Django for Pros")
 
-Have you ever wondered what the next steps are in  qualifies as a professional web application? Or you're to begin building complex real-life
+Have you ever wondered what the next steps are in buildin
+
+qualifies as a professional web application?
 
 it looks li well, this book gives a sneak-peek into the professional world of web development. It covers new tools and practices that companies employ in building their solutions
 
