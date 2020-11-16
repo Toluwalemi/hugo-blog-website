@@ -64,3 +64,7 @@ This is also good too
 ![](https://m.media-amazon.com/images/I/51vnww0I2TL._AC_UY218_.jpg)
 
 This is the cap it all
+
+***
+
+Hey there! My name is Toluwalemi. A Software Engineer and an Occasional Writer. [Say hi!](https://twitter.com/toluwalemi)
