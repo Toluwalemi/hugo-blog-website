@@ -34,12 +34,13 @@ If you are a beginner and you need to speed up your learning pathway effectively
 4. Practical Django 2 and Channels 2
 5. Django for Professionals
 
-####   
-**1. Django for Beginners** _by William S. Vincent_
+#### **1. Django for Beginners** _by William S. Vincent_
 
 ![](https://m.media-amazon.com/images/I/51sB4CmErSL._AC_UY218_.jpg)
 
-After you must have completed the tutorial on the official documentation, there's a chance you still feel lost. William Vincent has come to the rescue. In his book, he
+After you must have completed the tutorial on the official documentation, there's a chance you still feel lost or overwhelmed. William Vincent comes to the rescue. His simplistic yet powerful subversive brilliance shines in new and unexpected ways with this masterpiece. It 
+
+From the simple hello world app to more complex websites, the book follows an engaging structure and leaves you seeking more.The writing was rough, with especially awkward dialogue, but I thought the premise of the story was brilliant.
 
 #### **2. Django 3 by Example** _by Antonio Melé_
 
@@ -63,7 +64,7 @@ This is also good too
 
 ![](https://m.media-amazon.com/images/I/51vnww0I2TL._AC_UY218_.jpg)
 
-This is the cap it all
+Ever wondered what the lovechild of _Twilight_ and _The Hitchhiker’s Guide to the Galaxy_ would look like?
 
 ***
 
