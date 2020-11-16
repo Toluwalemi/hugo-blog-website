@@ -46,3 +46,5 @@ After you must have completed the tutorial on the official documentation, there'
 ![](https://images-na.ssl-images-amazon.com/images/I/51zWIiR62qL._SX400_BO1,204,203,200_.jpg)
 
 This one is really good
+
+#### **3. Django for APIs** _by William S. Vincent_
