@@ -44,7 +44,7 @@ After you must have completed the tutorial on the official documentation, there'
 
 ![Book Cover Image](https://m.media-amazon.com/images/I/71GPx+GNQ6L._AC_UY218_.jpg "Django 3 by Example")
 
-This one is really good while  the whys and wherefores 
+This one is really good while the whys and wherefores While I enjoyed the range of solid examples, I personally feel the author did not do
 
 **whys and wherefores** of these procedures need to be explained to students"
 
