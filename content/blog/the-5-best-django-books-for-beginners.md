@@ -7,7 +7,7 @@ tags = ["Django", "Web Development"]
 title = "The 5 Best Django Books for Beginners"
 
 +++
-I know what you are thinking. "There are a million and one 'Top Django books for beginners' why is this any different?"
+I know what you are thinking; _"There are a million and one 'Top Django books for beginners' why is this any different?"_
 
 Well, take it from someone who has tried countless book tutorials and video tutorials. You do not want to get lost in that dark-frustrating-bottomless pit. Hence, I have taken the time to highlight the top 5 books you'll have to follow to quickly master and solve problems with Django.
 
