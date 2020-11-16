@@ -62,7 +62,11 @@ This is also good too
 
 ![](https://m.media-amazon.com/images/I/51vnww0I2TL._AC_UY218_.jpg)
 
-Ever wondered what the lovechild of _Twilight_ and _The Hitchhiker’s Guide to the Galaxy_ would look like?
+Ever wondered what kind of tools professional developers worked with? Or the
+
+it looks li well, this book gives a sneak-peek into the professional world of web development. It covers new tools and practices that companies employ in building their solutions
+
+the lovechild of _Twilight_ and _The Hitchhiker’s Guide to the Galaxy_ would look like?
 
 ***
 
