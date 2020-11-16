@@ -56,7 +56,9 @@ According to the author, this book is suitable for beginners who have never buil
 
 ![Book Cover Image](https://images-na.ssl-images-amazon.com/images/I/41xWMIHf7oL._SY344_BO1,204,203,200_.jpg "Practical Django 2")
 
-As of the writing of this blog post, I have not practised the projects in this book but once I practice this I will come back and update this blog post. You are probably wondering; "Why then did you recommend it since you have not tried it?"
+As of the writing of this blog post, I have not _yet_ practised the projects in this book but I have glanced through the contents and once I practice this I will come back and update this blog post. You are probably wondering; "Why then did you recommend it since you have not tried it?"
+
+I personally didn’t care for the protagonist; the snarky anti-hero schtick got old after a while.
 
 #### **5. Django for Professionals** _by William S. Vincent_
 
