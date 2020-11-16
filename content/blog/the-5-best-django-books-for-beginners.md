@@ -1,6 +1,6 @@
 +++
 banner = ""
-date = 2020-10-27T23:00:00Z
+date = 2020-11-17T11:00:00Z
 description = "If you are a beginner looking to speed up your learning pathway effectively and efficiently, you should study these books in the following order..."
 draft = true
 tags = ["Django", "Web Development"]
@@ -38,9 +38,7 @@ If you are a beginner and you need to speed up your learning pathway effectively
 
 ![](https://m.media-amazon.com/images/I/51sB4CmErSL._AC_UY218_.jpg)
 
-After you must have completed the tutorial on the official documentation, there's a chance you still feel lost or overwhelmed. William Vincent comes to the rescue. His simplistic yet powerful subversive brilliance shines in new and unexpected ways with this masterpiece. It 
-
-From the simple hello world app to more complex websites, the book follows an engaging structure and leaves you seeking more. The writing was rough, with especially awkward dialogue, but I thought the premise of the story was brilliant.
+After you must have completed the tutorial on the official documentation, there's a chance you still feel lost or overwhelmed. William Vincent comes to the rescue by brilliantly shining in standard practices and concepts—ranging from testing to deployment—needed to build modern web applications in a very simple manner. You get hands-on experience in building, testing and deploying web apps like a _Message Board_ app, a _Blog_ app, and a _Newspaper_ app. The writing was easy to follow, with clear explanations of new concepts. I thought the introduction of test-driven development even at this stage was brilliant.
 
 #### **2. Django 3 by Example** _by Antonio Melé_
 
