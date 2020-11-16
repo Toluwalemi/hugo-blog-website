@@ -62,7 +62,7 @@ This is also good too
 
 ![Book Cover Image](https://m.media-amazon.com/images/I/51vnww0I2TL._AC_UY218_.jpg "Django for Pros")
 
-Have you ever wondered what quality ? Or 
+Have you ever wondered what the next steps are in  qualifies as a professional web application? Or you're to begin building complex real-life
 
 it looks li well, this book gives a sneak-peek into the professional world of web development. It covers new tools and practices that companies employ in building their solutions
 
