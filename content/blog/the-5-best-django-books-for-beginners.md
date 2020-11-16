@@ -66,9 +66,9 @@ Ever wondered what a professional and production-ready web application would ent
 
 ### Moving Forward...
 
-After trying out these examples, you should now feel very confident in solving problems with Django. Make sure you test your new-found Django skills by building novel projects or solving existing problems.
+This post is different from the everyday 'Top Django Books for Beginners' posts you come across. The structure and learning pathway I have laid out will enable you to easily master and understand Django in no time.  After trying out these examples, you should now feel very confident in solving problems with Django. Make sure you test your new-found Django skills by building novel projects or solving existing problems.
 
-In my next post, I will highlight top blogs, newsletters, and podcasts you should follow to get industry updates of Django news, articles, projects, practices, among others.
+In my next post, I will highlight top blogs, newsletters, and podcasts you could follow to get industry updates of Django news, articles, projects, practices, among others.
 
 ***
 
