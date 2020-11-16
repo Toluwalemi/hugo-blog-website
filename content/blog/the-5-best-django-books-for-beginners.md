@@ -64,6 +64,8 @@ As of the writing of this blog post, I have not practised the projects in this b
 
 Ever wondered what a professional and production-ready web application would entail? William Vincent, again, comes to the rescue by breaking down some technical jargon—like containerisation, advanced security, and performance—in easy-to-understand rhetorics. Like his other books mentioned here, you get hands-on experience in building a _Bookstore_ website from scratch (professionally) using tools like Docker and PostgreSQL. His clear explanations into the world of containerisation instantly illuminated my mind like how you shine a touch on an ignorant mind.
 
+### Moving Forward...
+
 ***
 
 Hey there! My name is Toluwalemi. A Software Engineer and an Occasional Writer. [Say hi!](https://twitter.com/toluwalemi)
