@@ -15,7 +15,7 @@ Hence, I have taken the time to recommend five(5) quality books you should follo
 
 ### **First things first...**
 
-In my opinion, the first step in starting a new language or framework is to go through the official documentation. I mean, it makes sense to first check the official resource written by the person or people who created or invented the language or framework. Right? So head on to the [Django documentation](https://docs.djangoproject.com/en/3.1/intro/) and try out the official tutorial if you haven't.
+In my opinion, the first step in starting a new language or framework is to go through the official documentation. I mean, it makes sense to first check the official resource written by the person or people who created or invented the language or framework. Right? So refer to the [Django documentation](https://docs.djangoproject.com/en/3.1/intro/) and try out the official tutorial if you haven't.
 
 **PS:** _Unlike some of those posts you've come across, this is not a paid promotion. I wasn't paid to promote any of the books mentioned here._
 
