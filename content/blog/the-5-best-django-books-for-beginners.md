@@ -9,13 +9,13 @@ title = "The 5 Best Django Books for Beginners"
 +++
 I know what you are thinking; _"There are a million and one 'Top Django books for beginners', why is this any different?"_
 
-From my point of view, most of those blog posts you've read do not actually provide an efficient learning pathway. They mostly recommend popular Django books without considering a systematic order in which a beginner should try them out. You should take it from someone who has tried out countless books and video tutorials; You do not want to get lost in that dark-frustrating-bottomless pit. 
+From my point of view, most of those blog posts you've read do not actually provide an efficient learning pathway. They mostly recommend popular Django books without considering a systematic order in which a beginner should follow. You should take it from someone who has tried out countless books and video tutorials; You do not want to get lost in that dark-frustrating-bottomless pit. 
 
 Hence, I have taken the time to recommend five(5) quality books you should follow if you want to quickly master Django. The order of the books mentioned here matters a lot, and you'll do yourself more good if you follow them in the order presented here
 
 ### First things first...
 
-In my opinion, the first step in starting a new language or framework is to go through the official documentation. I mean, it makes sense to first check the official resource written by the person or people who created or invented the language or framework. You agree with me, don't you? So head on to the [Django documentation](https://docs.djangoproject.com/en/3.1/intro/) and try out the official tutorial if you haven't.
+In my opinion, the first step in starting a new language or framework is to go through the official documentation. I mean, it makes sense to first check the official resource written by the person or people who created or invented the language or framework. Right? So head on to the [Django documentation](https://docs.djangoproject.com/en/3.1/intro/) and try out the official tutorial if you haven't.
 
 PS: Unlike some of those posts you've come across... No! This is not a paid promotion. I wasn't paid to promote any of the books mentioned here.
 
