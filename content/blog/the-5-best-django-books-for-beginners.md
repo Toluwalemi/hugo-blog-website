@@ -50,7 +50,7 @@ Range. Depth. Quality. Antonio Melé's very detailed book not only provides a ra
 
 ![Book Cover Image](https://m.media-amazon.com/images/I/61tQQ39uicL._AC_UY218_.jpg "Django for APIs")
 
-You'll most likely be building web APIs when you start solving problems with Django.
+According to the author, this book is suitable for beginners who have never built an API before as well as professional programmers looking for a fast-paced introduction to Django fundamentals and best practices. This book introduces a new tool, _Django REST Framework_, which you will use to build a _Todo API_ and a _Blog API_ as well as consuming these APIs with a frontend tool (_React)_. After I tried out the [official tutorial](https://www.django-rest-framework.org/tutorial/1-serialization/) on Django REST Framework, I found this book extremely helpful in actually understanding how to build Web APIs.
 
 #### **4. Practical Django 2 and Channels 2** _by Federico Marani_
 
