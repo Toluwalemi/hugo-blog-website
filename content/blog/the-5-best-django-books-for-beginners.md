@@ -66,6 +66,10 @@ Ever wondered what a professional and production-ready web application would ent
 
 ### Moving Forward...
 
+After trying out these examples, you should now feel very confident in solving problems with Django. Make sure you test your new-found Django skills by building novel projects or solving existing problems.
+
+In my next post, I will highlight top blogs, newsletters, and podcasts you should follow to get industry updates of Django news, articles, projects, practices, among others.
+
 ***
 
 Hey there! My name is Toluwalemi. A Software Engineer and an Occasional Writer. [Say hi!](https://twitter.com/toluwalemi)
