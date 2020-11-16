@@ -56,7 +56,7 @@ You'll most likely be building web APIs when you start solving problems with Dja
 
 ![Book Cover Image](https://images-na.ssl-images-amazon.com/images/I/41xWMIHf7oL._SY344_BO1,204,203,200_.jpg "Practical Django 2")
 
-This is also good too
+As of the writing of this blog post, I have not practised the projects in this book but once I practice this I will come back and update this blog post. You are probably wondering; "Why then did you recommend it since you have not tried it?"
 
 #### **5. Django for Professionals** _by William S. Vincent_
 
