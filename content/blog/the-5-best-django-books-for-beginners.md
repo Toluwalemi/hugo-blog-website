@@ -48,3 +48,7 @@ After you must have completed the tutorial on the official documentation, there'
 This one is really good
 
 #### **3. Django for APIs** _by William S. Vincent_
+
+![](https://images-na.ssl-images-amazon.com/images/I/61tQQ39uicL.jpg)
+
+This one is also good, you know
