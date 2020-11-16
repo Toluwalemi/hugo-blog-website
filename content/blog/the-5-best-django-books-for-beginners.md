@@ -44,7 +44,9 @@ After you must have completed the tutorial on the official documentation, there'
 
 ![Book Cover Image](https://m.media-amazon.com/images/I/71GPx+GNQ6L._AC_UY218_.jpg "Django 3 by Example")
 
-This one is really good
+This one is really good while  the whys and wherefores 
+
+**whys and wherefores** of these procedures need to be explained to students"
 
 #### **3. Django for APIs** _by William S. Vincent_
 
@@ -62,20 +64,7 @@ This is also good too
 
 ![Book Cover Image](https://m.media-amazon.com/images/I/51vnww0I2TL._AC_UY218_.jpg "Django for Pros")
 
-Ever wondered what a professional and production-ready web application entails?  
-
-* Build a _Bookstore_ website from scratch
-* Use Docker and PostgreSQL locally to mimic production settings
-* Implement advanced user registration with email
-* Write comprehensive tests
-* Adopt advanced security and performance improvements
-* Add search and file/image uploads
-
-qualifies as a professional web application?
-
-it looks li well, this book gives a sneak-peek into the professional world of web development. It covers new tools and practices that companies employ in building their solutions
-
-the lovechild of _Twilight_ and _The Hitchhiker’s Guide to the Galaxy_ would look like?
+Ever wondered what a professional and production-ready web application would entail? William Vincent, again, comes to the rescue by breaking down some technical jargon—like containerisation, advanced security, and performance—in easy-to-understand rhetorics. Like his other books mentioned here, you get hands-on experience in building a _Bookstore_ website from scratch (professionally) using tools like Docker and PostgreSQL. His clear explanations into the world of containerisation instantly illuminated my mind like how you shine a touch on an ignorant mind.
 
 ***
 
