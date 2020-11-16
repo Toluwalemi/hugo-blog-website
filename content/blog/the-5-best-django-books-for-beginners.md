@@ -31,8 +31,8 @@ If you are a beginner and you need to speed up your learning pathway effectively
 1. Django for Beginners
 2. Django3 By Example
 3. Django for APIs
-4. Django for Professionals
-5. Practical Django 2 and Channels 2
+4. Practical Django 2 and Channels 2
+5. Django for Professionals
 
 ####   
 **1. Django for Beginners** _by William S. Vincent_
@@ -52,3 +52,11 @@ This one is really good
 ![](https://hackr.io/blog/media/django-for-apis.jpg)
 
 This one is also good, you know
+
+#### **4. Practical Django 2 and Channels 2** _by Federico Marani_
+
+![](https://images-na.ssl-images-amazon.com/images/I/41xWMIHf7oL._SY344_BO1,204,203,200_.jpg)
+
+This is also good too
+
+#### **5. Django for Professionals** _by William S. Vincent_
