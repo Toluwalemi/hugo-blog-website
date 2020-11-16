@@ -44,11 +44,7 @@ After you must have completed the tutorial on the official documentation, there'
 
 ![Book Cover Image](https://m.media-amazon.com/images/I/71GPx+GNQ6L._AC_UY218_.jpg "Django 3 by Example")
 
-Range. Depth. Quality. Antonio Melé's very detailed book not only provides a range of web projects to build, but it also goes into the whys and wherefores of
-
-This one is really good while the whys and wherefores While I enjoyed the range of solid examples, I personally feel the author did not do 
-
-**whys and wherefores** of these procedures need to be explained to students"
+Range. Depth. Quality. Antonio Melé's very detailed book not only provides a range of web projects to build, but it also goes into the whys and wherefores of how the projects are built.
 
 #### **3. Django for APIs** _by William S. Vincent_
 
