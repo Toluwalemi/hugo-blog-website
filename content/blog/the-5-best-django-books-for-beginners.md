@@ -62,7 +62,14 @@ This is also good too
 
 ![Book Cover Image](https://m.media-amazon.com/images/I/51vnww0I2TL._AC_UY218_.jpg "Django for Pros")
 
-Have you ever wondered what the next steps are in buildin
+Ever wondered what a professional and production-ready web application entails?  
+
+* Build a _Bookstore_ website from scratch
+* Use Docker and PostgreSQL locally to mimic production settings
+* Implement advanced user registration with email
+* Write comprehensive tests
+* Adopt advanced security and performance improvements
+* Add search and file/image uploads
 
 qualifies as a professional web application?
 
