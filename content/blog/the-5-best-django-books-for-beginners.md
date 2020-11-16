@@ -36,33 +36,33 @@ If you are a beginner and you need to speed up your learning pathway effectively
 
 #### **1. Django for Beginners** _by William S. Vincent_
 
-![](https://m.media-amazon.com/images/I/51sB4CmErSL._AC_UY218_.jpg)
+![Book Cover Image](https://m.media-amazon.com/images/I/51sB4CmErSL._AC_UY218_.jpg "Django for Begineers")
 
 After you must have completed the tutorial on the official documentation, there's a chance you still feel lost or overwhelmed. William Vincent comes to the rescue by brilliantly shining in standard practices and concepts—ranging from testing to deployment—needed to build modern web applications in a very simple manner. You get hands-on experience in building, testing and deploying web apps like a _Message Board_ app, a _Blog_ app, and a _Newspaper_ app. The writing was easy to follow, with clear explanations of new concepts. I thought the introduction of test-driven development (at this early stage) was brilliant.
 
 #### **2. Django 3 by Example** _by Antonio Melé_
 
-![](https://m.media-amazon.com/images/I/71GPx+GNQ6L._AC_UY218_.jpg)
+![Book Cover Image](https://m.media-amazon.com/images/I/71GPx+GNQ6L._AC_UY218_.jpg "Django 3 by Example")
 
 This one is really good
 
 #### **3. Django for APIs** _by William S. Vincent_
 
-![](https://m.media-amazon.com/images/I/61tQQ39uicL._AC_UY218_.jpg)
+![Book Cover Image](https://m.media-amazon.com/images/I/61tQQ39uicL._AC_UY218_.jpg "Django for APIs")
 
 This one is also good, you know
 
 #### **4. Practical Django 2 and Channels 2** _by Federico Marani_
 
-![](https://images-na.ssl-images-amazon.com/images/I/41xWMIHf7oL._SY344_BO1,204,203,200_.jpg)
+![Book Cover Image](https://images-na.ssl-images-amazon.com/images/I/41xWMIHf7oL._SY344_BO1,204,203,200_.jpg "Practical Django 2")
 
 This is also good too
 
 #### **5. Django for Professionals** _by William S. Vincent_
 
-![](https://m.media-amazon.com/images/I/51vnww0I2TL._AC_UY218_.jpg)
+![Book Cover Image](https://m.media-amazon.com/images/I/51vnww0I2TL._AC_UY218_.jpg "Django for Pros")
 
-Ever wondered what kind of tools professional developers worked with? Or the
+Have you ever wondered what quality ? Or 
 
 it looks li well, this book gives a sneak-peek into the professional world of web development. It covers new tools and practices that companies employ in building their solutions
 
