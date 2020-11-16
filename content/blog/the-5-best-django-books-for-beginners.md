@@ -37,19 +37,19 @@ If you are a beginner and you need to speed up your learning pathway effectively
 ####   
 **1. Django for Beginners** _by William S. Vincent_
 
-![](https://d2h0cx97tjks2p.cloudfront.net/blogs/wp-content/uploads/sites/2/2019/03/Django-for-Beginners.png)
+![](https://m.media-amazon.com/images/I/51sB4CmErSL._AC_UY218_.jpg)
 
 After you must have completed the tutorial on the official documentation, there's a chance you still feel lost. William Vincent has come to the rescue. In his book, he
 
 #### **2. Django 3 by Example** _by Antonio Melé_
 
-![](https://images-na.ssl-images-amazon.com/images/I/51zWIiR62qL._SX400_BO1,204,203,200_.jpg)
+![](https://m.media-amazon.com/images/I/71GPx+GNQ6L._AC_UY218_.jpg)
 
 This one is really good
 
 #### **3. Django for APIs** _by William S. Vincent_
 
-![](https://hackr.io/blog/media/django-for-apis.jpg)
+![](https://m.media-amazon.com/images/I/61tQQ39uicL._AC_UY218_.jpg)
 
 This one is also good, you know
 
@@ -60,3 +60,7 @@ This one is also good, you know
 This is also good too
 
 #### **5. Django for Professionals** _by William S. Vincent_
+
+![](https://m.media-amazon.com/images/I/51vnww0I2TL._AC_UY218_.jpg)
+
+This is the cap it all
