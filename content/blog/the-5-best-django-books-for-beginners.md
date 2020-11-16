@@ -38,7 +38,7 @@ If you are a beginner and you need to speed up your learning pathway effectively
 
 ![](https://m.media-amazon.com/images/I/51sB4CmErSL._AC_UY218_.jpg)
 
-After you must have completed the tutorial on the official documentation, there's a chance you still feel lost or overwhelmed. William Vincent comes to the rescue by brilliantly shining in standard practices and concepts—ranging from testing to deployment—needed to build modern web applications in a very simple manner. You get hands-on experience in building, testing and deploying web apps like a _Message Board_ app, a _Blog_ app, and a _Newspaper_ app. The writing was easy to follow, with clear explanations of new concepts. I thought the introduction of test-driven development even at this stage was brilliant.
+After you must have completed the tutorial on the official documentation, there's a chance you still feel lost or overwhelmed. William Vincent comes to the rescue by brilliantly shining in standard practices and concepts—ranging from testing to deployment—needed to build modern web applications in a very simple manner. You get hands-on experience in building, testing and deploying web apps like a _Message Board_ app, a _Blog_ app, and a _Newspaper_ app. The writing was easy to follow, with clear explanations of new concepts. I thought the introduction of test-driven development (at this early stage) was brilliant.
 
 #### **2. Django 3 by Example** _by Antonio Melé_
 
