@@ -56,7 +56,7 @@ According to the author, this book is suitable for beginners who have never buil
 
 ![Book Cover Image](https://images-na.ssl-images-amazon.com/images/I/41xWMIHf7oL._SY344_BO1,204,203,200_.jpg "Practical Django 2")
 
-As of the writing of this blog post, I have not _yet_ practised the projects in this book. You are probably wondering; "_Why are recommending it since you have not tried out the examples?_" The good news is that I have glanced through the contents and I can say that the book is rich in concepts, examples, and explanations to some extent. It covers projects you may have built in the previous books, but nevertheless, you should still try them out so as to get a glimpse of different approaches professionals take in solving the same problems. The silver lining is that it covers Channels
+As of the writing of this blog post, I have not _yet_ practised the projects in this book. You are probably wondering; "_Why are recommending it since you have not tried out the examples?_" The good news is that I have glanced through the contents and I can say that the book is rich in concepts, examples, and explanations to some extent. It covers projects you may have built in the previous books, but nevertheless, you should still try them out so as to get a glimpse of different approaches various professionals take in solving the same problems. Another thing that caught my eye while glancing through this book is the introduction 
 
 I personally didn’t care for the protagonist; the snarky anti-hero schtick got old after a while.
 
