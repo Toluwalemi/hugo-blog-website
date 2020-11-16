@@ -11,7 +11,7 @@ I know what you are thinking; _"There are a million and one 'Top Django books fo
 
 From my point of view, most of those blog posts you've read do not actually provide an efficient learning pathway. They mostly recommend popular Django books without considering a systematic order in which a beginner should follow. You should take it from someone who has tried out countless books and video tutorials; You do not want to get lost in that dark-frustrating-bottomless pit.
 
-Hence, I have taken the time to recommend five(5) quality books you should follow if you want to quickly master Django and solve problems with it. The order of the books mentioned here matters a lot, and you'll do yourself more good if you follow them in the order presented here
+Hence, I have taken the time to pick out the five(5) quality books you should follow if you want to quickly master Django and solve problems with it. The order of the books mentioned here matters a lot, and you'll do yourself more good if you follow them in the order presented here.
 
 ### **First things first...**
 
@@ -21,7 +21,7 @@ In my opinion, the first step in starting a new language or framework is to go t
 
 ### **Assumptions**
 
-* You have a basic understanding of what Django is and its applications
+* You have a basic understanding of what Django is and its applications.
 * You have a basic understanding of what web development entails.
 
 ### **What are the books?**
