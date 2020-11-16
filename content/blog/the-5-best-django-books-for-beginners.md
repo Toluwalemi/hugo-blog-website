@@ -40,7 +40,7 @@ If you are a beginner and you need to speed up your learning pathway effectively
 
 After you must have completed the tutorial on the official documentation, there's a chance you still feel lost or overwhelmed. William Vincent comes to the rescue. His simplistic yet powerful subversive brilliance shines in new and unexpected ways with this masterpiece. It 
 
-From the simple hello world app to more complex websites, the book follows an engaging structure and leaves you seeking more.The writing was rough, with especially awkward dialogue, but I thought the premise of the story was brilliant.
+From the simple hello world app to more complex websites, the book follows an engaging structure and leaves you seeking more. The writing was rough, with especially awkward dialogue, but I thought the premise of the story was brilliant.
 
 #### **2. Django 3 by Example** _by Antonio Melé_
 
