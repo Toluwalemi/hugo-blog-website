@@ -35,6 +35,6 @@ If you are a beginner and you need to speed up your learning pathway effectively
 5. Practical Django 2 and Channels 2
 
 ####   
-**1. Django for Beginners** _by William S. Viscent_
+**1. Django for Beginners** _by William S. Vincent_
 
 ![](https://d33wubrfki0l68.cloudfront.net/82b11d45ccfe584833f3429416d46b1888949c96/e2600/assets/images/dfb_cover_31.jpg)
