@@ -39,4 +39,10 @@ If you are a beginner and you need to speed up your learning pathway effectively
 
 ![Book image](https://d33wubrfki0l68.cloudfront.net/82b11d45ccfe584833f3429416d46b1888949c96/e2600/assets/images/dfb_cover_31.jpg "Django for Begineers")
 
-One can say that
+After you must have completed the tutorial on the official documentation, there's a chance you still feel lost. William Vincent has come to the rescue. In his book, he
+
+#### **2. Django 3 by Example** _by Antonio Melé_
+
+![](https://images-na.ssl-images-amazon.com/images/I/51zWIiR62qL._SX400_BO1,204,203,200_.jpg)
+
+This one is really good
