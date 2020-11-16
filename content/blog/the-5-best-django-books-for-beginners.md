@@ -24,6 +24,8 @@ In my opinion, the first step in starting a new language or framework is to go t
 * You have a basic understanding of what Django is and its applications
 * You have a basic understanding of what web development entails.
 
+### What are the books?
+
 If you are a beginner and you need to speed up your learning pathway effectively and efficiently, you should **_study _**these books in the following **order**:
 
 1. Django for Beginners
