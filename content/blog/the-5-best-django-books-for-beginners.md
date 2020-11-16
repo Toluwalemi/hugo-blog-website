@@ -9,7 +9,9 @@ title = "The 5 Best Django Books for Beginners"
 +++
 I know what you are thinking; _"There are a million and one 'Top Django books for beginners', why is this any different?"_
 
-Well, take it from someone who has tried countless book tutorials and video tutorials. You do not want to get lost in that dark-frustrating-bottomless pit. Hence, I have taken the time to highlight the top 5 books you'll have to follow to quickly master and solve problems with Django.
+First, most of those blog posts you've read do not actually provide an efficient learning pathway. They mostly recommend popular Django books without considering a systematic order in which a beginner should try them out.
+
+Also, you should take it from someone who has tried countless book tutorials and video tutorials. You do not want to get lost in that dark-frustrating-bottomless pit. Hence, I have taken the time to highlight the top 5 books you'll have to follow to quickly master and solve problems with Django.
 
 Moreso, most of the other recommendations just write a list of Django books without considering the learning path. Mine is quite different. If you follow my recommendation in the order presented in this blog post, you will master Django in no time. Convinced? Alright, let's move!
 
