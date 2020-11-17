@@ -29,7 +29,7 @@ In my opinion, the first step in starting a new language or framework is to go t
 If you are a beginner and you need to speed up your learning pathway effectively and efficiently, you should **_study_** these books in the following **order**:
 
 1. Django for Beginners
-2. Django3 By Example
+2. Django 3 By Example
 3. Django for APIs
 4. Practical Django 2 and Channels 2
 5. Django for Professionals
@@ -56,7 +56,7 @@ According to the author, this book is suitable for beginners who have never buil
 
 ![Book Cover Image](https://images-na.ssl-images-amazon.com/images/I/41xWMIHf7oL._SY344_BO1,204,203,200_.jpg "Practical Django 2")
 
-As of the writing of this blog post, I have not _yet_ practised the projects in this book. The good news is that I have glanced through the contents and I can say that the book is rich in concepts, examples, and explanations to some extent. It covers projects you may have built in the previous books, but nevertheless, you should still try them out so as to get a glimpse of different approaches various professionals take in solving the same problems. Another thing that caught my eye while glancing through this book is the introduction of asynchronous communication using WebSocket and HTTP server-side events. You may find this very useful. Once I try out the examples, I shall update this blog post with my honest feedback.
+As of the writing of this blog post, I have not _yet_ practised the projects in this book. The good news is that I have glanced through the contents and I can say that the book is rich in concepts, examples, and explanations to some extent. It covers projects you may have built in the previous books, but nevertheless, you should still try them out so as to get a glimpse of different approaches various professionals take in solving the same problems. Another thing that caught my eye while glancing through this book was the introduction of asynchronous communication using WebSocket and HTTP server-side events. You may find this very useful. Once I try out the examples, I shall update this blog post with my honest feedback.
 
 #### **5. Django for Professionals** _by William S. Vincent_
 
