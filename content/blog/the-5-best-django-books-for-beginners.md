@@ -1,6 +1,6 @@
 +++
 banner = ""
-date = 2020-11-17T11:00:00Z
+date = 2020-11-17T11:06:00Z
 description = "If you are a beginner looking to speed up your learning pathway effectively and efficiently, you should study these books in the following order..."
 tags = ["Django", "Web Development"]
 title = "The 5 Best Django Books for Beginners"
