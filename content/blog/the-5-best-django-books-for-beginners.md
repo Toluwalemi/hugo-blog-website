@@ -72,4 +72,4 @@ In my next post, I will highlight top blogs, newsletters, and podcasts you could
 
 ***
 
-Hey there! My name is Toluwalemi. A Software Engineer and an Occasional Writer. [Say hi!](https://twitter.com/toluwalemi)
+Hey there! My name is Toluwalemi. A Software Engineer and an Occasional Writer. [Say hi or reach out if you have any questions!](https://twitter.com/toluwalemi)
