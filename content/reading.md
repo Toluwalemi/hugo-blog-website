@@ -4,11 +4,11 @@ title = "My Reading List"
 
 I enjoy reading and I feel sharing my reading list may keep me motivated to even read more. My goal is to read at least
 two books a month.
+
 # Currently Reading
 
-- ZIKORA: A SHORT STORY *by Chimamanda Ngozi Adichie*
-
 # 2020
+- **November** - ZIKORA: A SHORT STORY *by Chimamanda Ngozi Adichie*
 - **October** - MINDSET: THE NEW PSYCHOLOGY OF SUCCESS *by Carol S. Dweck*
 - **September** - THE CONCUBINE *by Elechi Amadi*
 - **September** - THE JOYS OF MOTHERHOOD *by Buchi Emecheta*
