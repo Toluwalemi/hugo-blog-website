@@ -6,6 +6,7 @@ I enjoy reading and I feel sharing my reading list may keep me motivated to even
 two books a month.
 
 # Currently Reading
+The Secret Lives of Baba Segi's Wives *by Lola Shoneyin*
 
 # 2020
 - **November** - ZIKORA: A SHORT STORY *by Chimamanda Ngozi Adichie*
