@@ -37,6 +37,7 @@ fields:
   default: []
   label: Tags
 pages:
+- content/blog/2020-year-in-review.md
 - content/blog/how-to-setup-your-blog-in-30-minutes-using-hugo.md
 - content/blog/i-miss-you-old-friend.md
 - content/blog/the-5-best-django-books-for-beginners.md
