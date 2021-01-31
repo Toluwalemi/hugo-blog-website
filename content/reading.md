@@ -6,7 +6,11 @@ I enjoy reading and I feel sharing my reading list may keep me motivated to even
 two books a month.
 
 # Currently Reading
-The Secret Lives of Baba Segi's Wives *by Lola Shoneyin*
+- Born a Crime: Stories from a South African Childhood *by Trevor Noah*
+- Anatomy of female power: A masculinist dissection of matriarchy *by Chinweizu*
+
+# 2021
+- **January** - THE SECRET LIVES OF BABA SEGI'S WIVES *by Lola Shoneyin*
 
 # 2020
 - **November** - ZIKORA: A SHORT STORY *by Chimamanda Ngozi Adichie*
