@@ -25,7 +25,7 @@ paginate = 10
   # rssFullText = true
 
 [permalinks]
-  blog = "/:title/"
+  blog = "blog/:title/"
 
 [taxonomies]
    tag = "tags"
