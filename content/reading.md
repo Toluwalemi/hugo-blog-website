@@ -7,10 +7,10 @@ two books a month.
 
 # Currently Reading
 - Born a Crime: Stories from a South African Childhood *by Trevor Noah*
-- Anatomy of female power: A masculinist dissection of matriarchy *by Chinweizu*
 
 # 2021
 - **January** - THE SECRET LIVES OF BABA SEGI'S WIVES *by Lola Shoneyin*
+- **February** - ANATOMY OF FEMALE POWER: A MASCULINIST DISSECTION OF MATRIARCHY *by Chinweizu*
 
 # 2020
 - **November** - ZIKORA: A SHORT STORY *by Chimamanda Ngozi Adichie*
