@@ -11,6 +11,7 @@ two books a month.
 # 2021
 - **January** - THE SECRET LIVES OF BABA SEGI'S WIVES *by Lola Shoneyin*
 - **February** - ANATOMY OF FEMALE POWER: A MASCULINIST DISSECTION OF MATRIARCHY *by Chinweizu*
+- **August** - Moróuntódùn (I Have Found A Sweet Thing) *by Femi Osofisan*
 
 # 2020
 - **November** - ZIKORA: A SHORT STORY *by Chimamanda Ngozi Adichie*
