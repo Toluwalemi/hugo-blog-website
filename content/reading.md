@@ -6,12 +6,16 @@ I enjoy reading and I feel sharing my reading list may keep me motivated to even
 two books a month.
 
 # Currently Reading
-- Born a Crime: Stories from a South African Childhood *by Trevor Noah*
+- SECOND-CLASS CITIZEN *by BUCHI EMECHETA*
+- DEW IN THE MORNING *by SHIMMER CHINODYA*
 
 # 2021
+- **November** - NOTES ON GRIEF *by Chimamanda Ngozi Adichie*
+- **October** - BORN A CRIME: STORIES FROM A SOUTH AFRICAN CHILDHOOD *by Trevor Noah*
+- **August** - Moróuntódùn (I Have Found A Sweet Thing) *by Femi Osofisan*
 - **January** - THE SECRET LIVES OF BABA SEGI'S WIVES *by Lola Shoneyin*
 - **February** - ANATOMY OF FEMALE POWER: A MASCULINIST DISSECTION OF MATRIARCHY *by Chinweizu*
-- **August** - Moróuntódùn (I Have Found A Sweet Thing) *by Femi Osofisan*
+
 
 # 2020
 - **November** - ZIKORA: A SHORT STORY *by Chimamanda Ngozi Adichie*
