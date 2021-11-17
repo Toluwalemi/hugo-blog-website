@@ -13,8 +13,8 @@ two books a month.
 - **November** - NOTES ON GRIEF *by Chimamanda Ngozi Adichie*
 - **October** - BORN A CRIME: STORIES FROM A SOUTH AFRICAN CHILDHOOD *by Trevor Noah*
 - **August** - Moróuntódùn (I Have Found A Sweet Thing) *by Femi Osofisan*
-- **January** - THE SECRET LIVES OF BABA SEGI'S WIVES *by Lola Shoneyin*
 - **February** - ANATOMY OF FEMALE POWER: A MASCULINIST DISSECTION OF MATRIARCHY *by Chinweizu*
+- **January** - THE SECRET LIVES OF BABA SEGI'S WIVES *by Lola Shoneyin*
 
 
 # 2020
