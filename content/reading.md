@@ -6,10 +6,11 @@ I enjoy reading and I feel sharing my reading list may keep me motivated to even
 two books a month.
 
 # Currently Reading
-- SECOND-CLASS CITIZEN *by BUCHI EMECHETA*
+- 
 - DEW IN THE MORNING *by SHIMMER CHINODYA*
 
 # 2021
+- **December** - SECOND-CLASS CITIZEN *by BUCHI EMECHETA*
 - **November** - NOTES ON GRIEF *by Chimamanda Ngozi Adichie*
 - **October** - BORN A CRIME: STORIES FROM A SOUTH AFRICAN CHILDHOOD *by Trevor Noah*
 - **August** - Moróuntódùn (I Have Found A Sweet Thing) *by Femi Osofisan*
