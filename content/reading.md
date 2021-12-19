@@ -6,7 +6,6 @@ I enjoy reading and I feel sharing my reading list may keep me motivated to even
 two books a month.
 
 # Currently Reading
-- 
 - DEW IN THE MORNING *by SHIMMER CHINODYA*
 
 # 2021
