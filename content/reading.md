@@ -7,6 +7,7 @@ two books a month.
 
 # Currently Reading
 - DEW IN THE MORNING *by SHIMMER CHINODYA*
+- NEARLY ALL THE MEN IN LAGOS ARE MAD *by Damilare Kuku*
 
 # 2021
 - **December** - SECOND-CLASS CITIZEN *by BUCHI EMECHETA*
