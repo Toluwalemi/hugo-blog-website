@@ -7,9 +7,10 @@ two books a month.
 
 # Currently Reading
 - DEW IN THE MORNING *by SHIMMER CHINODYA*
-- NEARLY ALL THE MEN IN LAGOS ARE MAD *by Damilare Kuku*
+- 
 
 # 2021
+- **December** - NEARLY ALL THE MEN IN LAGOS ARE MAD *by Damilare Kuku*
 - **December** - SECOND-CLASS CITIZEN *by BUCHI EMECHETA*
 - **November** - NOTES ON GRIEF *by Chimamanda Ngozi Adichie*
 - **October** - BORN A CRIME: STORIES FROM A SOUTH AFRICAN CHILDHOOD *by Trevor Noah*
