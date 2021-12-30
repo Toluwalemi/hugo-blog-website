@@ -6,10 +6,14 @@ I enjoy reading and I feel sharing my reading list may keep me motivated to even
 two books a month.
 
 # Currently Reading
-- DEW IN THE MORNING *by SHIMMER CHINODYA*
+- THE SUBTLE ART OF NOT GIVING A F*CK *by MARK MANSON*
+
+# 2022
 - 
 
+
 # 2021
+- **December** - DEW IN THE MORNING *by SHIMMER CHINODYA*
 - **December** - NEARLY ALL THE MEN IN LAGOS ARE MAD *by Damilare Kuku*
 - **December** - SECOND-CLASS CITIZEN *by BUCHI EMECHETA*
 - **November** - NOTES ON GRIEF *by Chimamanda Ngozi Adichie*
