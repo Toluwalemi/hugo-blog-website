@@ -6,7 +6,7 @@ I enjoy reading and I feel sharing my reading list may keep me motivated to even
 two books a month.
 
 # Currently Reading
-- David Mogo, Godhunter *by Suyi Davies Okungbowa*
+- Once Upon Four Robbers *by Femi Osofisan*
 
 # 2022
 - **January** - THE SUBTLE ART OF NOT GIVING A F*CK *by MARK MANSON*
