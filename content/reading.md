@@ -10,7 +10,7 @@ two books a month.
 
 # 2022
 - **January** - THE SUBTLE ART OF NOT GIVING A F*CK *by MARK MANSON*
-- **April** - ONCE UPON FOUR ROBBBERS *by FEMI OSOFISAN*
+- **April** - ONCE UPON FOUR ROBBERS *by FEMI OSOFISAN*
 
 
 # 2021
