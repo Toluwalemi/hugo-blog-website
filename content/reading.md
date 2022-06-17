@@ -6,11 +6,13 @@ I enjoy reading and I feel sharing my reading list may keep me motivated to even
 two books a month.
 
 # Currently Reading
-- Who Fears Death *by Nnedi Okorafor*
+- The Hard Thing About Hard Things *by Ben Horowitz*
 
 # 2022
-- **January** - THE SUBTLE ART OF NOT GIVING A F*CK *by MARK MANSON*
+- **June** - WHO FEARS DEATH *by NNEDI OKORAFOR*
 - **April** - ONCE UPON FOUR ROBBERS *by FEMI OSOFISAN*
+- **January** - THE SUBTLE ART OF NOT GIVING A F*CK *by MARK MANSON*
+
 
 
 # 2021
