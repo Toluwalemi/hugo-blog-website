@@ -6,9 +6,10 @@ I enjoy reading and I feel sharing my reading list may keep me motivated to even
 two books a month.
 
 # Currently Reading
-- The Hard Thing About Hard Things *by Ben Horowitz*
+- My Mercedes is bigger than yours *by Nwankwo Nken*
 
 # 2022
+- **August** - THE HARD THING ABOUT HARD THINGS *by Ben Horowitz*
 - **June** - WHO FEARS DEATH *by NNEDI OKORAFOR*
 - **April** - ONCE UPON FOUR ROBBERS *by FEMI OSOFISAN*
 - **January** - THE SUBTLE ART OF NOT GIVING A F*CK *by MARK MANSON*
