@@ -7,6 +7,7 @@ two books a month.
 
 # Currently Reading
 - My Mercedes is bigger than yours *by Nwankwo Nken*
+- One Man, One Wife *by T.M. Aluko
 
 # 2022
 - **August** - THE HARD THING ABOUT HARD THINGS *by Ben Horowitz*
