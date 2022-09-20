@@ -2,9 +2,6 @@
 title = "My Reading List"
 +++
 
-I enjoy reading and I feel sharing my reading list may keep me motivated to even read more. My goal is to read at least
-two books a month.
-
 # Currently Reading
 - My Mercedes is bigger than yours *by Nwankwo Nken*
 - One Man, One Wife *by T.M. Aluko*
