@@ -4,9 +4,9 @@ title = "My Reading List"
 
 # Currently Reading
 - My Mercedes is bigger than yours *by Nwankwo Nken*
-- One Man, One Wife *by T.M. Aluko*
 
 # 2022
+- **November** - ONE MAN, ONE WIFE *by T.M. Aluko*
 - **August** - THE HARD THING ABOUT HARD THINGS *by Ben Horowitz*
 - **June** - WHO FEARS DEATH *by NNEDI OKORAFOR*
 - **April** - ONCE UPON FOUR ROBBERS *by FEMI OSOFISAN*
