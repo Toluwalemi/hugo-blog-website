@@ -3,7 +3,7 @@ title = "My Reading List"
 +++
 
 # Currently Reading
-- I Am Because We Are: The story of Dora Akunyili *by Chidiogo Akunyili-Parr*
+- I Am Because We Are: The Story of Dora Akunyili *by Chidiogo Akunyili-Parr*
 
 # 2022
 - **November** - MY MERCEDES IS BIGGER THAN YOURS *by Nwankwo Nken*
