@@ -3,9 +3,10 @@ title = "My Reading List"
 +++
 
 # Currently Reading
-- My Mercedes is bigger than yours *by Nwankwo Nken*
+- I Am Because We Are: The story of Dora Akunyili *by Chidiogo Akunyili-Parr*
 
 # 2022
+- **November** - MY MERCEDES IS BIGGER THAN YOURS *by Nwankwo Nken*
 - **November** - ONE MAN, ONE WIFE *by T.M. Aluko*
 - **August** - THE HARD THING ABOUT HARD THINGS *by Ben Horowitz*
 - **June** - WHO FEARS DEATH *by NNEDI OKORAFOR*
