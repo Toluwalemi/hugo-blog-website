@@ -5,7 +5,7 @@ title = "My Reading List"
 # Currently Reading
 - EMOTIONAL INTELLIGENCE *by Daniel Goleman*
 
-# 2022
+# 2023
 - **January** - I AM BECAUSE WE ARE: THE STORY OF DORA AKUNYILI *by Chidiogo Akunyili-Parr*
 
 # 2022
