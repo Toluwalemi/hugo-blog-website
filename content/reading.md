@@ -3,7 +3,10 @@ title = "My Reading List"
 +++
 
 # Currently Reading
-- I Am Because We Are: The Story of Dora Akunyili *by Chidiogo Akunyili-Parr*
+- EMOTIONAL INTELLIGENCE *by Daniel Goleman*
+
+# 2022
+- **January** - I AM BECAUSE WE ARE: THE STORY OF DORA AKUNYILI *by Chidiogo Akunyili-Parr*
 
 # 2022
 - **November** - MY MERCEDES IS BIGGER THAN YOURS *by Nwankwo Nken*
