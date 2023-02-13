@@ -3,6 +3,7 @@ title = "My Reading List"
 +++
 
 # Currently Reading
+- FIGHTING CORRUPTION IS DANGEROUS: THE STORY BEHIND THE HEADLINES *by Ngozi Okonjo-Iweala*
 - EMOTIONAL INTELLIGENCE *by Daniel Goleman*
 
 # 2023
