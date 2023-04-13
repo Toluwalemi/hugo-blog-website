@@ -3,10 +3,10 @@ title = "My Reading List"
 +++
 
 # Currently Reading
-- FIGHTING CORRUPTION IS DANGEROUS: THE STORY BEHIND THE HEADLINES *by Ngozi Okonjo-Iweala*
 - EMOTIONAL INTELLIGENCE *by Daniel Goleman*
 
 # 2023
+- **April** - FIGHTING CORRUPTION IS DANGEROUS: THE STORY BEHIND THE HEADLINES *by Ngozi Okonjo-Iweala*
 - **January** - I AM BECAUSE WE ARE: THE STORY OF DORA AKUNYILI *by Chidiogo Akunyili-Parr*
 
 # 2022
