@@ -3,7 +3,7 @@ title = "My Reading List"
 +++
 
 # Currently Reading
-- EMOTIONAL INTELLIGENCE *by Daniel Goleman*
+- MY COMMAND *by Olusegun Obasanjo*
 
 # 2023
 - **April** - FIGHTING CORRUPTION IS DANGEROUS: THE STORY BEHIND THE HEADLINES *by Ngozi Okonjo-Iweala*
