@@ -3,9 +3,10 @@ title = "My Reading List"
 +++
 
 # Currently Reading
-- MY COMMAND *by Olusegun Obasanjo*
+- NIGERIA'S SOLDIERS OF FORTUNE: THE ABACHA AND OBASANJO YEARS *by Max Siollun*
 
 # 2023
+- **October** - MY COMMAND *by Olusegun Obasanjo*
 - **April** - FIGHTING CORRUPTION IS DANGEROUS: THE STORY BEHIND THE HEADLINES *by Ngozi Okonjo-Iweala*
 - **January** - I AM BECAUSE WE ARE: THE STORY OF DORA AKUNYILI *by Chidiogo Akunyili-Parr*
 
