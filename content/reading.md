@@ -3,9 +3,10 @@ title = "My Reading List"
 +++
 
 # Currently Reading
-- NIGERIA'S SOLDIERS OF FORTUNE: THE ABACHA AND OBASANJO YEARS *by Max Siollun*
+- SOLDIERS OF FORTUNE: A HISTORY OF NIGERIA (1983-1993) *by Max Siollun*
 
 # 2023
+- **November** - NIGERIA'S SOLDIERS OF FORTUNE: THE ABACHA AND OBASANJO YEARS *by Max Siollun*
 - **October** - MY COMMAND *by Olusegun Obasanjo*
 - **April** - FIGHTING CORRUPTION IS DANGEROUS: THE STORY BEHIND THE HEADLINES *by Ngozi Okonjo-Iweala*
 - **January** - I AM BECAUSE WE ARE: THE STORY OF DORA AKUNYILI *by Chidiogo Akunyili-Parr*
