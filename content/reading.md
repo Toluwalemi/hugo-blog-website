@@ -3,9 +3,9 @@ title = "My Reading List"
 +++
 
 # Currently Reading
-- SOLDIERS OF FORTUNE: A HISTORY OF NIGERIA (1983-1993) *by Max Siollun*
 
 # 2023
+- **December** - SOLDIERS OF FORTUNE: A HISTORY OF NIGERIA (1983-1993) *by Max Siollun*
 - **November** - NIGERIA'S SOLDIERS OF FORTUNE: THE ABACHA AND OBASANJO YEARS *by Max Siollun*
 - **October** - MY COMMAND *by Olusegun Obasanjo*
 - **April** - FIGHTING CORRUPTION IS DANGEROUS: THE STORY BEHIND THE HEADLINES *by Ngozi Okonjo-Iweala*
@@ -19,8 +19,6 @@ title = "My Reading List"
 - **April** - ONCE UPON FOUR ROBBERS *by FEMI OSOFISAN*
 - **January** - THE SUBTLE ART OF NOT GIVING A F*CK *by MARK MANSON*
 
-
-
 # 2021
 - **December** - DEW IN THE MORNING *by SHIMMER CHINODYA*
 - **December** - NEARLY ALL THE MEN IN LAGOS ARE MAD *by Damilare Kuku*
@@ -30,7 +28,6 @@ title = "My Reading List"
 - **August** - Moróuntódùn (I Have Found A Sweet Thing) *by Femi Osofisan*
 - **February** - ANATOMY OF FEMALE POWER: A MASCULINIST DISSECTION OF MATRIARCHY *by Chinweizu*
 - **January** - THE SECRET LIVES OF BABA SEGI'S WIVES *by Lola Shoneyin*
-
 
 # 2020
 - **November** - ZIKORA: A SHORT STORY *by Chimamanda Ngozi Adichie*
