@@ -3,6 +3,7 @@ title = "My Reading List"
 +++
 
 # Currently Reading
+- The Jungle: A Personal Journey with the Enfant Terrible of Nigerian Journalism *by David Hundeyin*
 
 # 2023
 - **November** - SOLDIERS OF FORTUNE: A HISTORY OF NIGERIA (1983-1993) *by Max Siollun*
