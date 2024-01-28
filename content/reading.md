@@ -1,10 +1,16 @@
 +++
 title = "My Reading List"
 +++
+# Wish List
+- Let's Talk About Your Money *by Kalu Aja*
+- Fourth Wing *by Rebecca Yarros*
 
 # Currently Reading
-- The Jungle: A Personal Journey with the Enfant Terrible of Nigerian Journalism *by David Hundeyin*
+- 
 
+# 2024
+- **January** - The Jungle: A Personal Journey with the Enfant Terrible of Nigerian Journalism *by David Hundeyin*
+  
 # 2023
 - **November** - SOLDIERS OF FORTUNE: A HISTORY OF NIGERIA (1983-1993) *by Max Siollun*
 - **November** - NIGERIA'S SOLDIERS OF FORTUNE: THE ABACHA AND OBASANJO YEARS *by Max Siollun*
