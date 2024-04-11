@@ -2,11 +2,10 @@
 title = "My Reading List"
 +++
 # Wish List
-- Let's Talk About Your Money *by Kalu Aja*
 - Fourth Wing *by Rebecca Yarros*
 
 # Currently Reading
-- 
+-  Let's Talk About Your Money *by Kalu Aja*
 
 # 2024
 - **January** - The Jungle: A Personal Journey with the Enfant Terrible of Nigerian Journalism *by David Hundeyin*
